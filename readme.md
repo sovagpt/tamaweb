@@ -169,9 +169,10 @@ Voting Power = √(Staked Tokens) × Time Bonus × Activity Score
 - [x] Security audits
 
 ### 🔄 Phase 2: Launch (LIVE NOW)
-- [x] Pump.fun token launch
+- [x] Bonk token launch
 - [x] Play-to-earn activation
 - [x] Liquidity pool creation
+- [ ] Bonk Hackathon
 - [ ] DEX listings (Jupiter, Raydium)
 - [ ] Community growth campaigns
 
