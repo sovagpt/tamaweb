@@ -19,11 +19,6 @@
   [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github)](https://github.com/sovagpt/tamaweb)
   [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/sovagpt/tamaweb/releases)
   
-  [![Website](https://img.shields.io/badge/Website-tamaweb.xyz-ff4757?style=for-the-badge)](https://tamaweb.xyz)
-  [![Documentation](https://img.shields.io/badge/Docs-Read%20More-ffa502?style=for-the-badge)](https://tamaweb.xyz/docs.html)
-  [![Pump.fun](https://img.shields.io/badge/Launch-Pump.fun-00b894?style=for-the-badge)](https://pump.fun)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge)](https://twitter.com/tamaweb)
-  
   **🚀 Relive the Tamagotchi magic while earning real cryptocurrency! 🚀**
 </div>
 
